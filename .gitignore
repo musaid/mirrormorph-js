@@ -1,0 +1,30 @@
+# Node.js and PNPM specifics
+node_modules/
+.pnpm/
+npm-debug.log
+yarn-error.log
+
+# Build directory (uncomment if you decide not to commit the dist directory)
+# /dist
+
+# TypeScript cache
+*.tsbuildinfo
+
+# IDE specifics
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS specifics
+.DS_Store
+Thumbs.db
+
+# Test and coverage reports
+coverage/
+
+# Environment configs or secrets
+.env
+
+# Other
+*.log
