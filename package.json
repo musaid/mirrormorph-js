@@ -1,6 +1,6 @@
 {
   "name": "mirrormorph",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "AI-powered avatar component usable across popular frontend frameworks",
   "main": "dist/mirrormorph.js",
   "types": "dist/mirrormorph.d.ts",
